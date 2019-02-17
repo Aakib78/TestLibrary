@@ -1,4 +1,5 @@
 # TestLibrary
+[![](https://jitpack.io/v/Aakib78/TestLibrary.svg)](https://jitpack.io/#Aakib78/TestLibrary)
 
 To add this project into your build:
 
