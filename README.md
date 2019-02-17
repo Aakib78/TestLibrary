@@ -1,6 +1,6 @@
 # TestLibrary
-How to
-To get a Git project into your build:
+
+To add this project into your build:
 
 Step 1. Add the JitPack repository to your build file
 
